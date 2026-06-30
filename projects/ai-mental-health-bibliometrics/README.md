@@ -39,7 +39,7 @@
 
 ## Что можно посмотреть
 
-📄 **[Итоговый аналитический отчёт](./projects/ai-mental-health-bibliometrics/Bibliometric analysis results.pdf)** — содержит все графики, таблицы и выводы.
+📄 **[Итоговый аналитический отчёт](./Bibliometric analysis results.pdf)** — содержит все графики, таблицы и выводы.
 
 ---
 
